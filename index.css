@@ -22,11 +22,9 @@
   
   li {
     padding: 10px;
-  }
-  
-  li, img {
     max-width: 500px;
   }
+  
   
   .container {
     max-width: 600px;
@@ -39,3 +37,4 @@
   
   .hidden {
     display: none;
+  }
